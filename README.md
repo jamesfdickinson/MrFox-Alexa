@@ -13,10 +13,13 @@ Goto "cd lambda/custom"
 Run "npm install"
 
 ## How to Delpoy
+AWS
+https://console.aws.amazon.com/lambda/home?region=us-east-1
 
 ASK SDK for Node.js
 https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
 
+## SDK Docs
 ASK SDK for Node.js Docs https://ask-sdk-for-nodejs.readthedocs.io/en/latest/Developing-Your-First-Skill.html
 
 
