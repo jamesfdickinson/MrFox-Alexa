@@ -1,0 +1,62 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "mr. fox",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": [
+                        "Help",
+                        "How do you play",
+                        "What are the rules",
+                        "How to play"
+                    ]
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "WhatTimeIsIt",
+                    "slots": [],
+                    "samples": [
+                        "What time it is",
+                        "What time mr fox",
+                        "What time mr. fox",
+                        "What time is it mr fox",
+                        "What time is it mr. fox",
+                        "What time mr wolf",
+                        "What time mr. wolf",
+                        "What time is it mr wolf",
+                        "What time is it mr. wolf",
+                        "What time",
+                        "What time is it"
+                    ]
+                },
+                {
+                    "name": "PlayAgain",
+                    "slots": [],
+                    "samples": [
+                        "reset",
+                        "start game",
+                        "start over",
+                        "Play again"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
