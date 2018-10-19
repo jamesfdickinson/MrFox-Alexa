@@ -1,12 +1,18 @@
 # MR Fox
 
+## How to Run
+
+Using an Alexa Echo, say one of the following: 
+* "Alexa, Open Mr Fox"
+* "Alexa, ask Mr Fox What time is it"
+
 ## How to Build
 
 Goto "cd lambda/custom"
 
 Run "npm install"
 
-Zip and deploy to aws lambda
+## How to Delpoy
 
 ASK SDK for Node.js
 https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
@@ -14,8 +20,7 @@ https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
 ASK SDK for Node.js Docs https://ask-sdk-for-nodejs.readthedocs.io/en/latest/Developing-Your-First-Skill.html
 
 
-
-## How to play
+## Game Rules
 
 ### Start
 
